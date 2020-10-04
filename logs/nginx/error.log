@@ -1,0 +1,1 @@
+2020/09/28 20:37:22 [emerg] 8#8: host not found in upstream "php-fpm:9000" in /etc/nginx/conf.d/upstream.conf:1
